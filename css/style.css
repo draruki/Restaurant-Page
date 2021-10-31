@@ -33,12 +33,14 @@ body {
 	justify-content: center;
 	align-items: center;
 	border: solid 1px black;
+	transition: 0.2s;
 }
 
 .tab:hover {
 	background-color: white;
 	color: black;
 	user-select: none;
+	height: 80px;
 }
 
 #logo {
@@ -101,7 +103,7 @@ body {
 	background-color: lightgrey;
 	border: solid 1px antiquewhite;
 	width: 500px;
-	height: 370px;
+	height: 390px;
 	margin-bottom: 100px;
 	padding: 25px;
 	display: flex;
@@ -109,9 +111,11 @@ body {
 	align-items: center;
 	flex-direction: column;
 	gap: 20px;
+	transition: 0.2s;
 }
 
 .item:hover {
+	width: 850px;
 	background-color: white;
 	border: solid 1px black;
 }
