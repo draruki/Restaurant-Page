@@ -51,7 +51,7 @@ function changeTab(v) {
 
 function footer() {
 	let footer = document.createElement('div');
-	footer.innerHTML = 'Copyright © 2021 Primedev All Rights Reserved | Legal | Privacy Statement | Anti-Spam Policy | Terms & Conditions';
+	footer.innerHTML = 'Copyright © 2021 op127 All Rights Reserved | Legal | Privacy Statement | Anti-Spam Policy | Terms & Conditions';
 	footer.classList.add('footer');
 	document.body.appendChild(footer);
 }
