@@ -1,3 +1,3 @@
 # Restaurant-Page
 
-A template restaurant website i built for a TOP project.
+A template restaurant website i built using HTML+CSS+JS.
